@@ -3,11 +3,11 @@
 
 ## Hi there 👋
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237D52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Room](https://img.shields.io/badge/Room-%23CC6699.svg?style=for-the-badge)
-![MVVM](https://img.shields.io/badge/MVVM-%238DD6F9.svg?style=for-the-badge)
-![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-%2343853D.svg?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room-%23FBCEB1.svg?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-%23E32636.svg?style=for-the-badge)
+![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-%23F984E5.svg?style=for-the-badge)
 
 
 <!--
