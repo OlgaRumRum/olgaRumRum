@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-![Android](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=android)
+![Android](https://img.shields.io/badge/KOTLIN-090909?style=for-the-badge&logo=android)
 ![Android Studio](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=androidstudio)
 ![Kotlin](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=kotlin)
 ![Kotlin](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=java)
