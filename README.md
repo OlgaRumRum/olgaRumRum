@@ -1,5 +1,7 @@
-## Hi there 👋
 
+[![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif)]
+
+## Hi there 👋
 
 ![Android](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=android)
 ![Android Studio](https://img.shields.io/badge/LABEL-MESSAGE-090909?style=for-the-badge&logo=androidstudio)
