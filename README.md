@@ -1,5 +1,5 @@
 
-[![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif)]
+![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif)
 
 ## Hi there 👋
 
