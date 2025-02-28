@@ -1,7 +1,7 @@
 
 ![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif)
 
-## Всем привет! Меня зовут Ольга, я Android разработчик
+## Всем привет! Меня зовут Ольга, я Android-разработчик
 
 ### Tech stack
 
@@ -11,7 +11,7 @@
 ![MVVM](https://img.shields.io/badge/MVVM-%23E32636.svg?style=for-the-badge)
 ![Kotlin Coroutines](https://img.shields.io/badge/Kotlin%20Coroutines-%23F984E5.svg?style=for-the-badge)
 ![Coroutines Flow](https://img.shields.io/badge/Coroutines%20Flow-09090?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-092309?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-095309?style=for-the-badge)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-999099?style=for-the-badge)
 ![Jetpack Navigation](https://img.shields.io/badge/Jetpack%20Navigation-099999?style=for-the-badge)
 ![REST API](https://img.shields.io/badge/REST%20API-090999?style=for-the-badge)
