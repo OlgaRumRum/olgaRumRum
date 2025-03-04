@@ -1,5 +1,5 @@
 
-![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif)
+![Header](https://github.com/OlgaRumRum/olgaRumRum/blob/main/assets/me.gif){width=100%}
 
 ## Всем привет! Меня зовут Ольга, я Android-разработчик
 
